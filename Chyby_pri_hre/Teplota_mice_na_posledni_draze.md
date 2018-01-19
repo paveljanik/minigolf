@@ -14,7 +14,7 @@ ponaučením z&nbsp;něj je nebát se o chybách komunikovat (např. se svým
 trenérem, spoluhráčem). "Více hlav více ví" platí i v&nbsp;minigolfu.
 
 Ale vraťme se k popisu problému. Jsem poměrně systematický hráč, zapisuji si
-svá kolečka, výsledky, chyby se snažím odstraňovat apod. V&NBSP;minulosti jsem
+svá kolečka, výsledky, chyby se snažím odstraňovat apod. V&nbsp;minulosti jsem
 několikrát udělal chybu v&nbsp;tom, že se mi nepodařilo teplotně připravit
 (dohřát) míč na poslední 18. dráze na hřišti
 [Minigolf Butovice](http://www.minigolfbutovice.cz). Totéž se mi "podařilo" i
@@ -83,10 +83,11 @@ dobu v&nbsp;ponožce, čímž by získal mnohem vyšší teplotu. Je otázkou, j
 pak bude chovat na položených. To se musí vyzkoušet (čas a téma na trénink).
 
 Znovu se také musím podívat na průběh míče proudy, neboť právě kvůli němu jsem
-vyřadil o něco rychlejší míče (čas a téma na trénink).
+vyřadil o něco rychlejší míče resp. podobné míče s odlišným povrchem (čas a
+téma na trénink).
 
-A jak si vlastně takový problém vůbec způsobím?
------------------------------------------------
+Jak si vlastně takový problém vůbec způsobím?
+---------------------------------------------
 
 Popsaný problém si hráč může způsobit velmi jednoduše drobným zanedbáním
 míčové přípravy v tréninku. V tomto případě to bylo jednoduché. Trénování
