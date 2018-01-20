@@ -6,12 +6,13 @@ hře přistupuji příliš laxně, jak ukážu níže na velmi konkrétním př�
 kterém chci tuto jednu konkrétní chybu (vlastně ve spojitosti s další chybou -
 tzv. chybou poslední dráhy) detailně demonstrovat. I přesto, že se považuji za
 precizního perfekcionistu, bohužel se mi nedaří se ke stejnému modelu chování
-donutit i při vlastní hře. A to i přes to, že vím, že je to nutné (protože to
-je právě minigolf, který mne toto naučil!). Druhým důvodem je, že podle mého
-názoru se nejlépe vysvětlují a předávají poznatky z&nbsp;plně pochopené
-vlastní chyby ;-) A když si tento text po sobě čtu, tak možná největším
-ponaučením z&nbsp;něj je nebát se o chybách komunikovat (např. se svým
-trenérem, spoluhráčem). "Více hlav více ví" platí i v&nbsp;minigolfu.
+donutit i při vlastní hře (a vlastně i tréninku). A to i přes to, že vím, že
+je to nutné a to zejména z dlouhodobého pohledu (protože to je právě minigolf,
+který mne toto naučil!). Druhým důvodem je, že podle mého názoru se nejlépe
+vysvětlují a předávají poznatky z&nbsp;plně pochopené vlastní chyby ;-) A když
+si tento text po sobě čtu, tak možná největším ponaučením z&nbsp;něj je nebát
+se o chybách komunikovat (např. se svým trenérem, spoluhráčem). "Více hlav
+více ví" platí i v&nbsp;minigolfu.
 
 Ale vraťme se k popisu problému. Jsem poměrně systematický hráč, zapisuji si
 svá kolečka, výsledky, chyby se snažím odstraňovat apod. V&nbsp;minulosti jsem
@@ -27,8 +28,8 @@ tepelně připraveným míčem.
 
 Tato událost mi nedala a rozhodl jsem se z&nbsp;ní vypsat, protože evidentně
 nejsem dostatečně schopen se poučit z&nbsp;vlastních chyb. A v&nbsp;tomto
-případě se jich stalo neuvěřitelně mnoho a níže je zkusím všechny popsat jako
-inspiraci pro ostatní hráče (a samozřejmě přidám i další poznatky od
+případě se jich stalo neuvěřitelně mnoho a níže zkusím některé z nich popsat
+jako inspiraci pro ostatní hráče (a samozřejmě přidám i další poznatky od
 ostatních).
 
 Popis situace
@@ -75,7 +76,8 @@ Tohoto jsem si plně vědom, ale bohužel jsem se nedokázal donutit udělat je�
 něco dále k tomu, aby byl problém vyřešen. Pouze náznaky, neboť jsem považoval
 jiné věci za důležitější - např. prohoz trubky (toto samotné, tedy nacházení
 si nějakého "důležitého" zdůvodnění, je další velmi charakteristickou a často
-opakovanou chybou minigolfistů) ;-)
+opakovanou chybou minigolfistů) nebo že musíme být brzy se synem doma na
+večeři ;-)
 
 Problém je samozřejmě řešitelný mnoha způsoby. Je potřeba si na něj vyhradit
 tréninkový čas. Ideálním řešením by bylo zjistit, jestli míč nemůže být celou
@@ -99,3 +101,15 @@ aktuálních vlastností míče (byl studený, budu tedy hrát buď slabší neb
 vlevo, aby zezadu vůbec nemohl přijít). Samozřejmě, že si správný golfista
 bude hledat svoji *sebeobhajobu* - např. dnes už nemám moc času a stejně je to
 *poslední dráha*.
+
+A nakonec řešení
+----------------
+
+Odstranění problému jsem věnoval jednu tréninkovou jednotku, v níž jsem
+zjistil, že výrazně teplejším míčem na položených hrát nemůžu, což jsem
+předpokládal. Druhou část jednotky jsem věnoval opětovnému výběru míče na
+proudy. Z asi čtyř vhodných míčů jsem nakonec zvolil jeden, který funguje i v
+první i druhé variantě výborně a není tak náročný na temperaci. Toto řešení
+jsem si ověřil ve dvou tréninkových kolech a vyhodnotím je v dalším kole
+Radoligy. Iterativně se tedy budu zlepšovat, zjednodušovat si hru na této
+dráze (v odborné literatuře se to nazývá PDCA cyklus ;-).
