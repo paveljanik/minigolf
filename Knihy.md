@@ -9,8 +9,10 @@ přidávat, jak se mi dostanou pod ruce.
 30vteřinový golfový švih (T.J.Tomasi, Kathryn Maloney)
 ------------------------------------------------------
 
+![30vteřinový golfový švih](obrazky/30vterin.jpg)
+
 Kniha má podtitul "Jak si vytrénovat mozek ke zlepšení hry" a poskytuje i
-minigolfistům několik zajímavých postřehů k danému tématu.
+minigolfistům několik zajímavých postřehů k&nbsp;danému tématu.
 
 Autoři se systématicky zabývají celou hrou od tréninkové přípravy (zlepšování
 svého profilu předností a slabin, přeneseno do minigolfového světa
