@@ -7,7 +7,23 @@ Hry pro předškolní děti
 
 U předškolních dětí je nutné klást velký důraz na zlepšení koordinace
 tělesných pohybů a sledování těchto pohybů, vše nejlépe formou her (úderů si
-dají ještě mnoho a mnoho).
+dají ještě mnoho a mnoho) a poznávání drah.
+
+## Vlny
+
+Která dráha vám děti připomíná velblouda? Čím? Má tady na hřišti ještě nějaká
+dráha dva hrby? Pojďme se podívat na hrby vln ;-) Jeden z nich je větší, který
+to je? Co to znamená, že je větší? Položíme na něho jeden míč a překulíme
+směrem k důlku. Co se stane? Co se stane, když ho překulíme z menšího směrem k
+většímu (tedy směrem k základnímu poli)? Dokážeme míč překulit z většího tak,
+aby menší hrb nepřejel? Kdo má šikovné ručičky? Zkusíme míč zastavit nahoře na
+kopečku? Je to těžké? Proč je to těžké?
+
+Zkusíme si údery. Cílem je míček dostat až do kruhu, rovně. Z kruhu zkusit
+dohrávku. Znovu ukázat, proč je tam černá překládací čára. Vyzkoušet pět úderů
+po sobě, čísla si zkusit napsat na papírek. Jaké číslo jsme nejčastěji
+zapsali? Je to pro vás lehká nebo těžká dráha? Která dráha na hřišti je lehčí
+a proč? Která těžší a proč?
 
 ## Prohazování trubky
 
@@ -15,7 +31,7 @@ Bag s pár míči postavíme před trubku, podíváme se okem skrz trubku, že t
 opravdu je průhledné (nejlépe dítě z horní strany a trenér ze spodní a KUK ;-)
 Dítěti zadáme úkol: zkus všechny míče z tašky po jednom postupně prohodit
 trubkou. Umíš vzít do jedné ruky více míčů? A do obou? Kolik jich zvládneš
-najednou? Je pak jednodušší je prahozovat nebo je to lepší po jednom? Je to
+najednou? Je pak jednodušší je prohazovat nebo je to lepší po jednom? Je to
 stejně obtížné pro všechny míče? Co udělá míček poté, co trubkou projede?
 Dělají všechny to stejné? Výborně, všechno jsi dokázal prohodit. Zkusíme to
 tedy z druhé strany. No, to je těžší ;-) Mohou hrát i dvě děti spolu. Jedno
@@ -31,15 +47,15 @@ je pouštět po jednom, aby měli větší šanci?
 
 ## Karabach nahoru je jednoduchý...
 
-Dostat míček na karabachu nahoru ze základního pole je jednoduché za použití
-hole standardním úderem. Ale dokážete to i dolů a bez hole? Na základní pole
-umístíme bag a míčky z něj dáme nahoru na karabach. Cílem hry je ukázat, že
-pouhým prstem je možné míček z plošiny poslat dolů tak, aby se dotknul bagu na
-základním poli. Bag může být otevřený tak, aby míček do něj rovnou najel. Děti
-se seznámí s tím, že míč po opuštění rovné plošiny jede dolů a směřuje např. k
-mantinelu (v Butovicích k pravému mantinelu při pohledu ze základního
-pole). Trénuje se také jemná motorika, neboť to není obvyklý pohyb dětských
-ručiček. Střídat ruce.
+Dostat míček na karabachu nahoru ze základního pole je jednoduché (to už
+umíte, protože jste šikovní!) za použití hole standardním úderem. Ale dokážete
+to i dolů a bez hole? Na základní pole umístíme bag a míčky z něj dáme nahoru
+na karabach. Cílem hry je ukázat, že pouhým prstem je možné míček z plošiny
+poslat dolů tak, aby se dotknul bagu na základním poli. Bag může být otevřený
+tak, aby míček do něj rovnou najel. Děti se seznámí s tím, že míč po opuštění
+rovné plošiny jede dolů a směřuje např. k mantinelu (v Butovicích k pravému
+mantinelu při pohledu ze základního pole). Trénuje se také jemná motorika,
+neboť to není obvyklý pohyb dětských ručiček. Střídat ruce.
 
 Týmově je možné tuto hrát tak, že druhý tým postaví prstové zábrany na
 nájezdu. Ukazováčkem ukazuje na nějaké místo na nájezdu a tím brání míči
