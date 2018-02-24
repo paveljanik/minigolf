@@ -105,3 +105,16 @@ Doporučuji po každém turnaji požádat spoluhráče o zpětnou vazbu, jak se 
 líbilo zvolené téma turnaje apod. Mnohdy tak okamžitě vzniknou náměty na další
 turnaje nebo žádosti o opakování stejného :-) Jenom pozor, aby pak nebyl
 trénink nevyrovnaný...
+
+
+Témata pro klubové turnaje
+==========================
+
+Esovky
+
+Jedním míčem
+
+Dohrávky
+
+Na honěnou ve dvojicích (s modifikací dvě esa dvou hráčů povolují střídání) -
+na čas nebo až první skupina dokončí celý okruh ;-)
