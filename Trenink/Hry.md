@@ -43,7 +43,7 @@ vyskákat z trubky až ven z dráhy?
 
 Za spolupráce dvou dětí je možné i trubku ucpat ze spodu - kolik míčů dokážeme
 do trubky dostat? Kolik jich pak po puštění trubky přijede do jamky? Dokážeš
-je pouštět po jednom, aby měli větší šanci?
+je pouštět po jednom, aby měly větší šanci?
 
 ## Karabach nahoru je jednoduchý...
 
