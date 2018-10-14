@@ -118,3 +118,9 @@ Dohrávky
 
 Na honěnou ve dvojicích (s modifikací dvě esa dvou hráčů povolují střídání) -
 na čas nebo až první skupina dokončí celý okruh ;-)
+
+Hardcore (pro Butovice; v Kotvě může být jinak)
+
+Labyrint na rovno, klíny standardně, blesk na rovno (pouze prohoz a odraz na
+krátké je počítán jako 1, jinak další úder ze základního pole), looping (pouze
+ze základního pole), trubka
