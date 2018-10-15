@@ -33,6 +33,10 @@ obsahuje velmi podobné údaje.
 Update 20181014: Nyní čekáme na aktualizaci Celostátního žebříčku za poslední
 turnaje OPEN (HK a Děkanka) a BT, kde se naši hráči zúčastnili.
 
+Update 20181015: Právě byl zveřejněn aktualizovaný Celostátní žebříček. PJ
+pracuje na základní verzi.
+
+
 Žádost o proplacení 100% startovného za juniory a žáky
 ------------------------------------------------------
 
@@ -52,3 +56,6 @@ otevřít i výsledkovou listinu z daného turnaje a vyhledat pořadí daného
 mládežníka. Je to tedy mírně pracnější než předchozí dokument.
 
 Update 20181014: Opět čekáme na aktualizaci žebříčku.
+
+Update 20181015: Právě byl zveřejněn aktualizovaný Celostátní žebříček. PJ
+pracuje na základní verzi.
