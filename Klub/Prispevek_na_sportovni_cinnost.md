@@ -59,3 +59,6 @@ Update 20181014: Opět čekáme na aktualizaci žebříčku.
 
 Update 20181015: Právě byl zveřejněn aktualizovaný Celostátní žebříček. PJ
 pracuje na základní verzi.
+
+Update 20181017: Děkanka a Pečky účtovaly za mládež startovné 150
+CZK. Upozorněny na tuto chybu.
